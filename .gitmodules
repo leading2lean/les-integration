@@ -1,0 +1,9 @@
+[submodule "les-python3"]
+	path = les-python3
+	url = git@github.com:leading2lean/les-python3.git
+[submodule "les-javascript"]
+	path = les-javascript
+	url = git@github.com:leading2lean/les-javascript.git
+[submodule "les-swift"]
+	path = les-swift
+	url = git@github.com:leading2lean/les-swift.git
