@@ -7,3 +7,6 @@
 [submodule "les-swift"]
 	path = les-swift
 	url = git@github.com:leading2lean/les-swift.git
+[submodule "les-bash"]
+	path = les-bash
+	url = git@github.com:leading2lean/les-bash.git
