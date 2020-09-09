@@ -10,3 +10,6 @@
 [submodule "les-bash"]
 	path = les-bash
 	url = git@github.com:leading2lean/les-bash.git
+[submodule "les-go"]
+	path = les-go
+	url = git@github.com:leading2lean/les-go.git
